@@ -1,0 +1,132 @@
+{
+	"data" : {
+	
+	 	"title" : "Portfolio Projects",
+		"projects" : [
+			
+			{
+				"id" : "0",
+				"project_name" : "Whale Of A Time",
+				"description" : "Built for a local campground this website is meant to showcase the area and provide information.",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"Sass",
+					"Javascript"
+				],
+				"live_link" : "http://whaleofatime.ca/",
+				"github_link" : "https://github.com/FDevonG/Whale-Of-A-Time",
+				"image_urls" : [
+					"/static/images/WhaleOfATime/main.jpg",
+					"/static/images/WhaleOfATime/pic1.jpg"
+				]
+			},
+			
+			{
+				"id" : "1",
+				"project_name" : "Employee Directory",
+				"description" : "A database of employess with a sesrch function so that you may search an employees name",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"Javascript"
+				],
+				"live_link" : "https://fdevong.github.io/Javascript-Techdegree-Project-5/",
+				"github_link" : "https://github.com/FDevonG/Javascript-Techdegree-Project-5",
+				"image_urls" : [
+					"/static/images/directory/main.jpg",
+					"/static/images/directory/pic1.jpg"
+				]
+			},
+	
+			{
+				"id" : "2",
+				"project_name" : "Web App",
+				"description" : "A web application that uses graphs that change, and preferences that sacve locally to your machine.",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"Javascript",
+					"Charts.js"
+				],
+				"live_link" : "https://fdevong.github.io/techdegree-project-7/",
+				"github_link" : "https://github.com/FDevonG/techdegree-project-7",
+				"image_urls" : [
+					"/static/images/webApp/main.jpg",
+					"/static/images/webApp/pic1.jpg"
+				]
+			},
+
+			{
+				"id" : "3",
+				"project_name" : "Form Validation",
+				"description" : "Using form validation I have implemented functions to validate the form and provide errors upon needed corrections.",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"Javascript",
+					"JQuery"
+				],
+				"live_link" : "https://fdevong.github.io/JavaScript-Techdegree-Project-3/",
+				"github_link" : "https://github.com/FDevonG/JavaScript-Techdegree-Project-3",
+				"image_urls" : [
+					"/static/images/formValidation/main.jpg",
+					"/static/images/formValidation/pic1.jpg"
+				]
+			},
+			
+			{
+				"id" : "4",
+				"project_name" : "Lightbox",
+				"description" : "Useing a Jquery plugin I created a photo gallery with a search feature",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"JQuery"
+				],
+				"live_link" : "https://fdevong.github.io/techdegree-project-5/",
+				"github_link" : "https://github.com/FDevonG/techdegree-project-5",
+				"image_urls" : [
+					"/static/images/lightbox/main.jpg",
+					"/static/images/lightbox/pic1.jpg"
+				]
+			},
+			
+			{
+				"id" : "5",
+				"project_name" : "Phrase Hunter",
+				"description" : "A simple game in which you must guess the phrase, however everytime you geuss a letter not in the phrase you lose a life, run out of lives and it's game over.",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"Javascript"
+				],
+				"live_link" : "https://FDevonG.github.io/Javascript-Techdegree-Project-4",
+				"github_link" : "https://github.com/FDevonG/Javascript-Techdegree-Project-4/tree/master",
+				"image_urls" : [
+					"/static/images/phraseHunter/main.jpg",
+					"/static/images/phraseHunter/pic1.jpg"
+				]
+			},
+			
+			{
+				"id" : "5",
+				"project_name" : "Phrase Hunter",
+				"description" : "A style guide that can be added to projects to speed up build time.",
+				"technologies" : [
+					"HTML",
+					"CSS",
+					"Sass"
+				],
+				"live_link" : "https://FDevonG.github.io/techdegree-project-5",
+				"github_link" : "https://github.com/FDevonG/techdegree-project-5/tree/master",
+				"image_urls" : [
+					"/static/images/styleGuide/main.jpg",
+					"/static/images/styleGuide/pic1.jpg"
+				]
+			}
+			
+		]
+	
+	}
+}
