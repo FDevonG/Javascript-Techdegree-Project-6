@@ -13,6 +13,7 @@ app.use((req, res, next) => {
 	'use strict';
 	const err = new Error('Page Not Found');//create a new error with the message 'Page Not Found'
 	err.status = 404;//set the status to a 404
+	console.error('Page Not Found');
 	next(err);//call next passing the new error
 });
 
